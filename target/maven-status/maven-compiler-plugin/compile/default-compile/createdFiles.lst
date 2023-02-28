@@ -1,0 +1,16 @@
+com\controller\LoanController.class
+com\controller\TransactionController.class
+com\model\Account.class
+com\services\UserServiceImpl.class
+com\services\LoanServiceImpl.class
+com\services\UserService.class
+com\services\AccountServiceImpl.class
+com\controller\UserController.class
+com\model\User.class
+com\services\LoanService.class
+com\services\TransactionService.class
+com\model\Transaction.class
+com\services\AccountService.class
+com\model\Loan.class
+com\services\TransactionServiceImpl.class
+com\controller\AccountController.class
